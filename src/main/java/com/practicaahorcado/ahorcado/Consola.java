@@ -15,7 +15,7 @@ public class Consola {
     
     public Consola(){
         String[] coleccion = {"casa", "arbol", "albaricoque", "bicicleta", "teclado", "tigre", "reloj", "lampara", "cuadro", "vestido", "armario", "ciudad",
-            "tejado", "gaviota", "amor", "rascacielos", "yate", "cojin", "monitor", "notificar", "proyecto"};
+            "tejado", "gaviota", "amor", "rascacielos", "yate", "cojin", "monitor", "notificar", "proyecto", "pronostico", "medicion", "calidad", "corbata"};
         
         Random rand = new Random(); 
         int numPalabras = coleccion.length;
